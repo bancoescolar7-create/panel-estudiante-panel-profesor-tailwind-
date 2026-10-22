@@ -6,9 +6,8 @@ Este proyecto contiene dos prototipos visuales basados en los wireframes del pun
 - `profesor.html`: panel del profesor.
 
 ## Cómo probarlo
-1. Descarga y descomprime la carpeta.
-2. Abre `estudiante.html` o `profesor.html` en un navegador.
-3. Tailwind CSS se carga mediante CDN, por lo que necesitas conexión a internet para ver los estilos.
+1. Abre `Index.html` en un navegador.
+2. Tailwind CSS se carga mediante CDN, por lo que necesitas conexión a internet para ver los estilos.
 
 ## Importante
 Es un prototipo inicial para la actividad. Usa datos de ejemplo y no tiene backend ni base de datos conectados. El formulario del profesor permite probar visualmente la validación de cantidades y evita un saldo negativo, pero los datos no se guardan al cerrar o recargar la página.
